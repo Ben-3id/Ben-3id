@@ -1,4 +1,19 @@
-<img src="https://i.pinimg.com/originals/e2/52/ee/e252ee51fe694b9d14b7a00ae3f4954c.gif" width=100%/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Autoplay Video</title>
+</head>
+<body>
+
+  <video autoplay muted loop playsinline width="100%">
+    <source src="your-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+</body>
+</html>
+
 
 
  
